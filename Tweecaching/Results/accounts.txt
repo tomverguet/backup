@@ -1,0 +1,8 @@
+screen_name
+AFP
+AP
+BBCBreaking
+cnnbrk
+RANsquawk
+markets
+zerohedge
